@@ -1,2 +1,3 @@
-# scrabble
-Practice project from Learn Python 3 Codecademy Course
+# Scrabble
+
+Process some data from a group of friends playing Scrabble
